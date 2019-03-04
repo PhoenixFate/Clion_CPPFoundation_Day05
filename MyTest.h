@@ -1,0 +1,14 @@
+//
+// Created by phoenix on 3/4/2019.
+//
+
+#ifndef CLION_CPPFOUNDATION_DAY05_MYTEST_H
+#define CLION_CPPFOUNDATION_DAY05_MYTEST_H
+
+
+class MyTest {
+
+};
+
+
+#endif //CLION_CPPFOUNDATION_DAY05_MYTEST_H
